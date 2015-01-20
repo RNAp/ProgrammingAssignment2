@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## the following functions calculate inverse of a given invertible matrix
+## and store the results in cache. If the inverse is recalculated, 
+## the functions retrieve inverse results from cache instead of calculating inverse again
 
 # makeCacheMatrix creates a special "matrix",
 # which is a list containing a function to
